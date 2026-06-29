@@ -102,11 +102,12 @@ The LiPo battery is soldered straight onto the board's battery terminals. I’d 
 | RG1 | 470kΩ 125mW 150V Thick Film Resistor ±1% 0805 | 5 | 0.02 | [Link](https://lcsc.com/product-detail/C17709.html) | JLCPCB |
 | C7,C9 | 330nF 50V X7R ±10% 0805 MLCC | 20 | 0.66 | [Link](https://lcsc.com/product-detail/C1740.html) | JLCPCB |
 | 3.7V 100mAH | To power the circuit | 2 | 0.00 | [Link](https://www.electropi.in/3.7v-100mah-lipo-battery-model-321225-india) | Self Sourced |
+| 3d Print | For the encloser | 1 | 0.00 | [Link](https://printlegion.hackclub.com/) | #printing-legion |
 | Shipping PCB	| E- Post (Cheapest) | 	- |	$10.98	| — | 	JLCPCB |
 | Total |    |     |   $100.58    |   |    |   |
 
 **I have provided the links to the parts that I will self - sourced , So that if a reader wanted to recreate this project they would be able to find all the parts.. Which is also updated on the BOM csv file too..**
-
+For the 3d print I will use #printing-legion 
 
 
 Also I don't have any experience soldering SMD components. Since I don't own a hot plate,So I wouldn't be able to assemble it manually myself and finish the project. So, to stay within that $100 budget, I'm going with PCB assembly instead. And I will order 5 assemble PCB as I want two to get it tested and I want some extra to get in between the Channel and check it . Also getting 5 assembled PCB will cost $100 in total which is my allocated budget for this project Tier 3.
