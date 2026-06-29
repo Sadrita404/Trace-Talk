@@ -20,3 +20,4 @@ Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 "X1","8MHz 33pF SMD3213-3P Ceramic Resonator",5,1.92,"https://lcsc.com/product-detail/C341522.html","JLCPCB"
 "RG1","470kΩ 125mW 150V Thick Film Resistor ±1% 0805",5,0.02,"https://lcsc.com/product-detail/C17709.html","JLCPCB"
 "C7,C9","330nF 50V X7R ±10% 0805 MLCC",20,0.66,"https://lcsc.com/product-detail/C1740.html","JLCPCB"
+"3.7V 100mAH","To power the circuit",2,0,"https://www.electropi.in/3.7v-100mah-lipo-battery-model-321225-india","Self Sourced"
