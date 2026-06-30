@@ -46,6 +46,8 @@ The LiPo battery is soldered straight onto the board's battery terminals. I’d 
 | <img src="https://github.com/user-attachments/assets/ad673f34-ba12-44f6-99f1-33ce8b79d85b" width="100%" /> | <img src="https://github.com/user-attachments/assets/54c83cc0-4afa-4cd0-914f-8b911a2370cf" width="100%" /> | <img src="https://github.com/user-attachments/assets/9e68fd51-9424-48f9-8847-189dfb406ee9" width="100%" /> |
 
 
+<img width="424" height="503" alt="Screenshot 2026-06-30 at 8 57 12 PM" src="https://github.com/user-attachments/assets/a1e14107-6edb-46a3-b2d2-8899cf0fb9dc" />
+
 
 
 <div align="center">
