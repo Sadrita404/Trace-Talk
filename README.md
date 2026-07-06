@@ -109,11 +109,6 @@ The LiPo battery is soldered straight onto the board's battery terminals. I’d 
 | Shipping PCB	| E- Post (Cheapest) | 	- |	$10.98	| — | 	JLCPCB |
 | Total |    |     |   $100.58    |   |    |   |
 
-**I have provided the links to the parts that I will self - sourced , So that if a reader wanted to recreate this project they would be able to find all the parts.. Which is also updated on the BOM csv file too..**
-For the 3d print I will use #printing-legion 
-
-
-Also I don't have any experience soldering SMD components. Since I don't own a hot plate,So I wouldn't be able to assemble it manually myself and finish the project. So, to stay within that $100 budget, I'm going with PCB assembly instead. And I will order 5 assemble PCB as I want two to get it tested and I want some extra to get in between the Channel and check it . Also getting 5 assembled PCB will cost $100 in total which is my allocated budget for this project Tier 3.
 
 **Project Under Hack Club**
 
